@@ -38,6 +38,7 @@ public class Quiz17 {
 		int[] arrY= new int[4];
 		int count=0;
 		
+		
 		System.out.print("입력 ");
 		for(int i=0; i<arrY.length; i++) {
 			arrY[i]= sc.nextInt();
