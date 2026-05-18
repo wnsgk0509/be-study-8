@@ -1,0 +1,155 @@
+[33mcommit 380993dfc689c77ba9196bbb9387a6db51c3baea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Fri May 15 17:03:12 2026 +0900
+
+    퀴즈 17,28번
+
+[33mcommit 1b3456a90494db86c554501797dd9081222899c9[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Fri May 15 12:40:52 2026 +0900
+
+    퀴즈17번 종합(조건,반복,배열,입출력,로직)
+
+[33mcommit 727aa5530e9c8cf5c148a187d89c3d1177ecc0a2[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Fri May 15 09:40:49 2026 +0900
+
+    퀴즈16번 종합(조건,반복,배열,입출력,로직
+
+[33mcommit 762887dd976b26de6563a46fc9382c1eac322fac[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Thu May 14 16:17:29 2026 +0900
+
+    Quiz14(배열)
+
+[33mcommit 9e9bc93952ec4a8800d0ea4e831f23b8aec6ab3a[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Thu May 14 11:45:40 2026 +0900
+
+    배열 개념
+
+[33mcommit 264f598e37d7c227475e0041f72083b94727e530[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Wed May 13 16:01:17 2026 +0900
+
+    참조타입변수 기본개념
+
+[33mcommit 53892f4984eea19482a321d2ceb97a7410306df6[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Wed May 13 14:12:48 2026 +0900
+
+    퀴즈12, 13 (조건,반복,로직)
+
+[33mcommit 193e31e2e5a8386ddfc35196b59e5a720b70a669[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Tue May 12 16:28:10 2026 +0900
+
+    퀴즈11 중첩 반복문
+
+[33mcommit 4f6a554f130132c77bf34087a3516d36796814e3[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Tue May 12 16:27:37 2026 +0900
+
+    퀴즈9,10(중첩, 반복문)
+
+[33mcommit 1c0b52e020db03f7515b8df5286485aeaab5eeae[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Tue May 12 12:48:28 2026 +0900
+
+    중첩 반복문
+
+[33mcommit b06cde6327e4084fb61c23d249323369301165aa[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Tue May 12 12:19:57 2026 +0900
+
+    반복문(for,while)
+
+[33mcommit 6be160096b8c3a0894e0a86485ae2d1fde1d4b12[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Tue May 12 10:26:06 2026 +0900
+
+    퀴즈8 조건문
+
+[33mcommit 73d1712b63e8d4980cc44bf4e84610ebbf4ec711[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Mon May 11 15:47:25 2026 +0900
+
+    퀴즈7 조건문
+
+[33mcommit f5b83f3a5551b42152faf21ddedf0b22db813811[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Mon May 11 14:09:47 2026 +0900
+
+    조건문 (if, switch)
+
+[33mcommit 430523171c659b5295cc6d9ba21b7ae8ec650990[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Mon May 11 11:45:34 2026 +0900
+
+    퀴즈6
+
+[33mcommit 64ab21290ea9c2954e1f289267f08dcdea98630e[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Fri May 8 16:24:23 2026 +0900
+
+    퀴즈5 퀴2ㅡ5 연산자, 변수입력
+
+[33mcommit ca540c2d2f85179851d64aefba7cf48df9023c9e[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Fri May 8 16:06:22 2026 +0900
+
+    퀴즈4 연산자
+
+[33mcommit 4f2f9e28dbd25196c40bdb5a4ae3bf908f7ebe87[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Fri May 8 12:33:44 2026 +0900
+
+    퀴즈3 타입변환, 연산자
+
+[33mcommit 95ec72ead2519dfea5ea2e13032ab2f8d0d510e0[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Fri May 8 11:17:35 2026 +0900
+
+    연산자 종류, 사용법
+
+[33mcommit bf11467f280eaa2c3ab1ca0d50979f3adbaea604[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Thu May 7 16:24:25 2026 +0900
+
+    변수 입출력
+
+[33mcommit d58341c9978b673ccec84fc84a61cac82850b21e[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Thu May 7 14:25:51 2026 +0900
+
+    퀴즈2 변수 기본/타입
+
+[33mcommit 42c0b8fe65fc318938088bfa4d7959f72c276e55[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Thu May 7 12:37:39 2026 +0900
+
+    변수 타입변환
+
+[33mcommit 5b77a50bede565acf06fbbf6699d587aabfa09a7[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Thu May 7 10:25:03 2026 +0900
+
+    퀴즈1 변수 기초
+
+[33mcommit ec6a8ff317e59df94b801c9c1a4b0315afab8a4e[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Wed May 6 16:54:40 2026 +0900
+
+    자바 변수 기본 타입
+
+[33mcommit bb25d9b29c9f25c0fcf8830c03a86043bdc3d835[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Wed May 6 15:25:47 2026 +0900
+
+    자바 변수 기본 개념
+
+[33mcommit c1469b43bd3069ea555ce97b6f134067513a40f0[m
+Author: wnsgk0509 <rndrndqkd@gmail.com>
+Date:   Wed May 6 13:58:30 2026 +0900
+
+    자바 시작, .gitigonre 추가
