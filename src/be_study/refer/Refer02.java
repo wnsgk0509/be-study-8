@@ -41,6 +41,6 @@ public class Refer02 {
 			System.out.println("금요일은 신나는 날");
 		}
 				
-		//참조변수 배열 복사, 향상된 for문, enum(열거타입)
+		
 	}
 }
