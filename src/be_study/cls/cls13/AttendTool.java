@@ -1,0 +1,56 @@
+package be_study.cls.cls13;
+
+public class AttendTool {
+
+	boolean isPowerOn; // 전원 켜질 여부
+	String org; //어던 조직/회가 위한 도구
+	
+	public void powerOn() {
+		isPowerOn = true; //전원켜짐 상태 값 
+		System.out.println("전원이 켜졌습니다");
+	}
+	
+	
+	//출결체크
+	public boolean checkAttend(Card card) {
+		
+		//출결 체크
+		// 카드 id 확인 -> 누구 카드냐 -> 지금 일/수업 참여하고 있는 사람이야
+		// 로직 판단 ....
+		
+		System.out.printf("%s 소유의 %s 카드 출결 확인 \n", card.owner, card.brand);
+		
+		
+		// 출결체크 성공
+		return true;
+		
+		// 출결체크 실패(문제발생)
+		// return false;
+	}
+	
+	// 출결체크 결과 -> 기줕코드	1:출근성공 	2:실패	3:퇴근성공		4:조퇴처리		5:출근지각
+	public int checkAttend2(Card card) {
+		//로직
+		// 지금시간, 카드누구꺼, 괴장/회사 등록, 이전에 출근이 찍혀있느냐..
+		
+		System.out.printf("[checkAttend2]%s 소유의 %s 카드 출결 확인\n", card.owner, card.brand);
+		//if...
+		//return 4;
+		//return 5;
+		
+		return 1;	//출근처리성공
+	}
+	
+	// 카드 + 카드 찍는 학생 -> 이게 맞는지 교차 ..
+	public boolean checkAttend(Card card, Student student) {
+		//상세 로직
+		System.out.println("카드 소유주 : " + card.owner);
+		System.out.println("카드 태그 학생 : " + student.name);
+		
+		if( card.owner.equals(student.name)) {
+			return true;
+			
+		}
+		return false;
+	}
+}
