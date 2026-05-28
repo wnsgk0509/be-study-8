@@ -1,9 +1,22 @@
 package be_study.quiz.Quiz34;
 
+import java.util.ArrayList;
+
 public class Kitchen {
 	int size;
 	int height;
 	String color;
+	
+	Refrigerator refrigerator;
+	
+	Stove stove;
+	
+	Sink sink;
+	
+//	Trash trash;
+	ArrayList<Trash> trashList;
+	
+	ArrayList<Cup> CupList;
 	
 	
 	public int getSize() {
