@@ -53,4 +53,14 @@ public class AttendTool {
 		}
 		return false;
 	}
+	
+	//출결 체크할때 학생정보만 전달 -> 학생정보 내부에 card 객체 존재 -> 카드 내부에 정보
+	public boolean checkAttend(Student student) {
+		// student.name 학생이름
+		// student.card 학생이보유한 카드
+		// student.card.owner 카드가 누구카드다
+		
+		// == 비교 로직
+		return true;
+	}
 }
