@@ -77,8 +77,9 @@ public class Inherit04Main {
 		//BluetoothMike bm1 = new BluetoothMike();
 		//Mike m4 = new BluetoothMike();
 		
-		bm1.connect();
-		m4.connect();
+		//타입변수 기준 사용법을 알고있는 메소드만 호출 가능
+		//bm1.connect();
+		//m4.connect();
 		
 		
 		
