@@ -1,4 +1,4 @@
-package be_study.quiz.Quiz36;
+package be_study.quiz.QuizPerson;
 
 public class ArrayPractice {
 	

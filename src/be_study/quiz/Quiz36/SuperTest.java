@@ -1,4 +1,4 @@
-package be_study.quiz.Quiz37;
+package be_study.quiz.Quiz36;
 
 public class SuperTest {
 public static void main(String[] args) {

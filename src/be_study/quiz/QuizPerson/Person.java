@@ -1,4 +1,4 @@
-package be_study.quiz.Quiz36;
+package be_study.quiz.QuizPerson;
 
 class Person {
 	String name;

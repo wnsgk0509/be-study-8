@@ -1,4 +1,4 @@
-package be_study.quiz.Quiz38;
+package be_study.quiz.Quiz37;
 
 public class Overriding {
 	public static void main(String[] args) {
