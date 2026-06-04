@@ -10,10 +10,6 @@ public class InterfaceType {
 		
 		//총합 계산
 		
-//		food.discountedPrice();
-//		ele.discountedPrice();
-//		clo.discountedPrice();
-		
 		int total = food.discountedPrice() + ele.discountedPrice() + clo.discountedPrice();
 		
 		
